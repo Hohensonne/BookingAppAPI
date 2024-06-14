@@ -1,0 +1,54 @@
+C:\Users\danii\Desktop\BookingAppAPI\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\danii\Desktop\BookingAppAPI\Data\bin\Debug\net8.0\Data.dll
+C:\Users\danii\Desktop\BookingAppAPI\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\Data.dll
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\bin\Debug\net8.0\Data.dll
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.dll
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\adm\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\bin\Debug\net8.0\Data.dll
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.dll
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\danii\Desktop\Новая папка (4)\BookingAppAPI\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\bin\Debug\net8.0\Data.dll
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\Data.dll
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\bin\Debug\net8.0\DTO.dll
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\bin\Debug\net8.0\DTO.pdb
+C:\Users\danii\Desktop\gg\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\danii\Desktop\BookingAppAPI\Data\bin\Debug\net8.0\DTO.dll
+C:\Users\danii\Desktop\BookingAppAPI\Data\bin\Debug\net8.0\DTO.pdb
+C:\Users\danii\Desktop\BookingAppAPI\Data\obj\Debug\net8.0\Data.csproj.Up2Date
